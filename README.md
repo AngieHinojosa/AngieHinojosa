@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Angie Hinojosa  
 
-<!--
-**AngieHinojosa/AngieHinojosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desarrolladora Full Java Stack en formación**  
+🎓 Estudiante del bootcamp **Generation - Full Java Stack**  
+📍 Apasionada por la tecnología, el fitness y el aprendizaje continuo.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que manejo  
+🖥 **Lenguajes y herramientas:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 Estadísticas de GitHub  
+![AngieHinojosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngieHinojosa&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngieHinojosa&layout=compact&theme=radical)](https://github.com/AngieHinojosa)
+
+---
+
+## 📫 Conéctate conmigo  
+💼 [LinkedIn](https://www.linkedin.com/in/angiehinojosa)  
+💻 [GitHub](https://github.com/AngieHinojosa)  
