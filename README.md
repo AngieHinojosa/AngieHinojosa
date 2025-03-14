@@ -16,13 +16,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub  
-![AngieHinojosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngieHinojosa&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngieHinojosa&layout=compact&theme=radical)](https://github.com/AngieHinojosa)
-
----
-
 ## 📫 Conéctate conmigo  
 💼 [LinkedIn](https://www.linkedin.com/in/angiehinojosa)  
 💻 [GitHub](https://github.com/AngieHinojosa)  
